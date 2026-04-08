@@ -81,8 +81,3 @@ npm run dev
 ```
 
 Frontend starts on `http://localhost:5173`.
-
-## Notes
-
-- Local secret-style overrides can go in `src/main/resources/application-local.properties` (ignored by Git).
-- Logs are printed to console by default (no file appender is configured).
