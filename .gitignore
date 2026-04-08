@@ -1,0 +1,13 @@
+target/
+webapp/node_modules/
+webapp/dist/
+docs/
+
+.idea/
+*.iml
+.vscode/
+.mvn
+
+
+
+src/main/resources/application-local.properties
